@@ -1,4 +1,4 @@
-# Password-Checkker
+# Password-Checker
 This is a Password checker programme that allows you to check any number of passwords to see if it has ever been use
 unlike the other websites that offer same services ,this is safer becauses it can't be intercepted over the internet
 
